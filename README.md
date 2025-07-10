@@ -19,6 +19,11 @@ Sou entusiasta de tecnologia, apaixonada por desenvolvimento, dados e inovação
 - 🌱 Sempre aprendendo novas tecnologias e boas práticas  
 - 📫 Vamos nos conectar? [LinkedIn](www.linkedin.com/in/victória-freyre)
 
-<br/>
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img 
+    src="https://i.ibb.co/wh39zWC7/C-pia-de-Fachada-Miguel-das-Baterias-Frontal-V2-2.png" 
+    alt="C-pia-de-Fachada-Miguel-das-Baterias-Frontal-V2-2" 
+    style="width: 60%; max-width: 400px; height: auto;" 
+  />
+</div>
 
-<img src="https://i.ibb.co/wh39zWC7/C-pia-de-Fachada-Miguel-das-Baterias-Frontal-V2-2.png" alt="C-pia-de-Fachada-Miguel-das-Baterias-Frontal-V2-2" border="0">
