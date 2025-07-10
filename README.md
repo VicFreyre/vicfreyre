@@ -21,9 +21,10 @@ Sou entusiasta de tecnologia, apaixonada por desenvolvimento, dados e inovação
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <img 
-    src="https://i.ibb.co/wh39zWC7/C-pia-de-Fachada-Miguel-das-Baterias-Frontal-V2-2.png" 
-    alt="C-pia-de-Fachada-Miguel-das-Baterias-Frontal-V2-2" 
-    style="width: 60%; max-width: 400px; height: auto;" 
+    src="https://i.ibb.co/K1v3PRz/C-pia-de-Fachada-Miguel-das-Baterias-Frontal-V2-3.png" 
+    alt="C-pia-de-Fachada-Miguel-das-Baterias-Frontal-V2-3" 
+    style="width: 70%; max-width: 400px; height: auto;" 
   />
 </div>
+
 
