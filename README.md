@@ -4,12 +4,14 @@ Sou entusiasta de tecnologia, apaixonada por desenvolvimento, dados e inovação
 
 <div style="display: flex; align-items: center; gap: 40px;">
   <a href="https://github.com/vicfreyre">
-    <img src="https://github-readme-stats.vercel.app/api?username=vicfreyre&show_icons=true&theme=dracula" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vicfreyre&show_icons=true&theme=tokyonight" width="47%" />
   </a>
   <a href="https://github.com/vicfreyre">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicfreyre&layout=compact&theme=dracula" width="36%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicfreyre&layout=compact&theme=tokyonight" width="36%" />
   </a>
 </div>
+
+
 
 
 ## 🚀 Sobre mim
