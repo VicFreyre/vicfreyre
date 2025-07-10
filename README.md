@@ -1,6 +1,20 @@
-# 𝗢𝗹𝗮́, 𝗲𝘂 𝘀𝗼𝘂 𝗮 𝗩𝗶𝗰𝘁𝗼́𝗿𝗶𝗮! 
+<p align="center">
+  <img src="https://i.ibb.co/TxTnGnhG/C-pia-de-Fachada-Miguel-das-Baterias-Frontal-V2-4.png" alt="C-pia-de-Fachada-Miguel-das-Baterias-Frontal-V2-4" width="600" border="0" />
+</p>
 
-Sou entusiasta de tecnologia, apaixonada por desenvolvimento, dados e inovação.
+<p align="center">
+  <img src="https://i.redd.it/9q6ppzypyir81.gif" width="200px" style="border-radius: 10px;" />
+</p>
+
+<p>
+  <span style="font-weight: bold; font-size: 56px;">Sou entusiasta de tecnologia, apaixonada por desenvolvimento, dados e inovação.</span>
+  <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" alt="Victoria GIF" style="height: 50px; vertical-align: middle; margin-left: 10px;">
+</p>
+
+
+
+
+
 
 <div style="display: flex; align-items: center; gap: 40px;">
   <a href="https://github.com/vicfreyre">
