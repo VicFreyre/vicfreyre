@@ -33,7 +33,7 @@
 - 💻 Desenvolvedora Fullstack em formação e estagiária em Analista de Dados
 - 🎓 Estudante de Sistemas de Informação  
 - 🌱 Sempre aprendendo novas tecnologias e boas práticas  
-- 📫 Vamos nos conectar? [LinkedIn](www.linkedin.com/in/victória-freyre)
+- 📫 Vamos nos conectar? [LinkedIn](https://www.linkedin.com/in/victória-freyre)
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <img 
