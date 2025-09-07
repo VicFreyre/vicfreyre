@@ -30,7 +30,7 @@
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedora Fullstack em formação e estagiária em Analista de Dados
+  - 💻 Desenvolvedora Fullstack em formação e estagiária em Análise de Dados
 - 🎓 Estudante de Sistemas de Informação  
 - 🌱 Sempre aprendendo novas tecnologias e boas práticas  
 - 📫 Vamos nos conectar? [LinkedIn](https://www.linkedin.com/in/victória-freyre)
